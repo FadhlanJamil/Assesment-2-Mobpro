@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyWarung</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik</string>
+    <string name="tambah_pesanan">Tambah Pesanan</string>
+    <string name="tambah_error">Belum Bisa Tambah Pesanan</string>
+    <string name="nama">Nama Pelanggan</string>
+    <string name="nama_lengkap">Atas Nama</string>
+    <string name="order_by">Makan Di</string>
+    <string name="pesanan">Pesanan</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_Pesanan">Ubah Pesanan</string>
+    <string name="invalid">Nama Pelanggan dan Pesanan Tidak Boleh Kosong</string>
+    <string name="lainnya">Opsi Lainnya</string>
+    <string name="hapus">Hapus Pesanan</string>
+    <string name="hapus_pesanan">Hapus Pesanan Ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan List</string>
+    <string name="grid">Tampilan Grid</string>
+
+</resources>
